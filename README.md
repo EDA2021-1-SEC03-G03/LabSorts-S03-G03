@@ -2,8 +2,8 @@
 
 
 Estudiantes:
-    Daniel Andrés Bernal Cáceres 202020706
-    Juan Martín Santos Ayala 202013610
+    Daniel Andrés Bernal Cáceres 202020706 MAQUINA 2
+    Juan Martín Santos Ayala 202013610 MAQUINA 1
 Correos:
     da.bernalc1@uniandes.edu.co
     j.santosa@uniandes.edu.co
